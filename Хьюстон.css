@@ -1,0 +1,30 @@
+body {
+    margin: auto;
+    width: 70%;
+    text-align: center;
+}
+
+#table, .people {
+    width: 600px;
+    margin-left: 200px;
+}
+
+figure {
+    float: right;
+    clear: right;
+}
+
+h3 {
+    text-align: left;
+}
+
+.spisok {
+    text-align: left;
+    margin: auto;
+    box-sizing: border-box;
+    width: 400px;
+}
+
+#spisok {
+    text-align: left;
+}
